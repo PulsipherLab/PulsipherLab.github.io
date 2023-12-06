@@ -2,7 +2,7 @@
 layout: page
 title: People
 image: assets/images/conference.jpg
-description: ""
+description: ''
 nav-menu: true
 banner_color: style1
 ---
@@ -26,7 +26,7 @@ banner_color: style1
         <header class="major">
 			<h2>Graduate Students</h2>
 		</header>
-		<p><span class="image Right"><img src="" alt="" /></span>
+		<p><span class="image right"><img src="" alt="" /></span>
         <h3> Ready for great students! </h3>
        </p>
     </div>
