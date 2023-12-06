@@ -21,6 +21,17 @@ banner_color: style1
     </div>
 </section>
 
+<section id="profile">
+	<div class="inner">
+        <header class="major">
+			<h2>Graduate Students</h2>
+		</header>
+		<p><span class="image Right"><img src="" alt="" /></span>
+        <h3> Ready for great students! </h3>
+       </p>
+    </div>
+</section>
+
 <section>
 	<div class="inner">
 		<ul class="actions">
