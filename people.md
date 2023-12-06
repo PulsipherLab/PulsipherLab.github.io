@@ -2,7 +2,7 @@
 layout: page
 title: People
 image: assets/images/conference.jpg
-description: ''
+description: An Introduction
 nav-menu: true
 banner_color: style1
 ---
