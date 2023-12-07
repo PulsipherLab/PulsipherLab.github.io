@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-image: assets/images/publication.jpg
+image: assets\images\publication.jpg
 description: 'Lorem Ipsum'
 nav-menu: true
 banner_color: style6
@@ -21,3 +21,4 @@ banner_color: style6
 <ul class="actions">
     <li><a href="/#launch" class="button icon fa-arrow-left">Go back to launch page</a></li>
 </ul>
+
