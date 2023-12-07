@@ -1,6 +1,6 @@
 # site settings
 title: Pulsipher
-subtitle: Info
+subtitle: Lab
 email: pulsipher@uwaterloo.ca
 description: Assistant Professor of Chemical Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
