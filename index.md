@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-I am an assistant professor of chemical engineering at the University of Waterloo who develops methods in <b>data-science</b> and <b>decision-making under uncertainty</b> to tackle engineering challenges pertaining to <b>sustainability</b>, <b>the environment</b>, <b>society</b>, and more. Learn more about me: my research, my teaching, my publications, my software, and more below!
+Vestibulum justo lectus, auctor nec ligula sit amet, rutrum finibus neque. Nam et facilisis mauris, at convallis arcu. Sed hendrerit enim at ante dictum, quis accumsan enim convallis. In pretium a ex eu lobortis. Maecenas cursus eu libero ut scelerisque. Suspendisse sed consectetur lorem. Sed mollis accumsan vestibulum. Proin et dapibus felis. Cras sit amet neque ante. Fusce et libero nec nisi sagittis blandit vitae a libero. 
