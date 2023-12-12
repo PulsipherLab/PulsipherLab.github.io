@@ -1,5 +1,5 @@
----
----
+// ---
+// ---
 @import '../../_sass/libs/vars';
 @import '../../_sass/libs/functions';
 @import '../../_sass/libs/mixins';
@@ -53,29 +53,29 @@
 
 // Base.
 
-	@import 'base/page';
-	@import 'base/typography';
+	@import '../../_sass/base/page';
+	@import '../../_sass/base/typography';
 
 // Component.
 
-	@import 'components/section';
-	@import 'components/form';
-	@import 'components/box';
-	@import 'components/icon';
-	@import 'components/image';
-	@import 'components/list';
-	@import 'components/table';
-	@import 'components/button';
-	@import 'components/tiles';
-	@import 'components/contact-method';
-	@import 'components/spotlights';
+	@import '../../_sass/components/section';
+	@import '../../_sass/components/form';
+	@import '../../_sass/components/box';
+	@import '../../_sass/components/icon';
+	@import '../../_sass/components/image';
+	@import '../../_sass/components/list';
+	@import '../../_sass/components/table';
+	@import '../../_sass/components/button';
+	@import '../../_sass/components/tiles';
+	@import '../../_sass/components/contact-method';
+	@import '../../_sass/components/spotlights';
 
 // Layout.
 
-	@import 'layout/header';
-	@import 'layout/banner';
-	@import 'layout/main';
-	@import 'layout/contact';
-	@import 'layout/footer';
-	@import 'layout/wrapper';
-	@import 'layout/menu';
+	@import '../../_sass/layout/header';
+	@import '../../_sass/layout/banner';
+	@import '../../_sass/layout/main';
+	@import '../../_sass/layout/contact';
+	@import '../../_sass/layout/footer';
+	@import '../../_sass/layout/wrapper';
+	@import '../../_sass/layout/menu';
