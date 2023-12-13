@@ -1,10 +1,10 @@
 # site settings
 title: Pulsipher
-subtitle: Info
+subtitle: Lab
 email: pulsipher@uwaterloo.ca
-description: Assistant Professor of Chemical Engineering
+description: Lorem Ipsum
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://pulsipher.github.io # the base hostname & protocol for your site
+url: https://pulsipherlab.github.io/ # the base hostname & protocol for your site
 author: pulsipher
 university: University of Waterloo
 room: Engineering 6, Room 5008
@@ -16,7 +16,7 @@ country: Canada
 formspreeEndpoint: https://formspree.io/f/xaykpvzo
 branch: master
 repo: pulsipher/pulsipher.github.io
-google_analytics: G-MCGJLE9DXE
+# google_analytics: G-MCGJLE9DXE
 phone: +1 (519) 888-4567 ext. 42290
 
 # homepage tiles
