@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Teaching
+title: Resources
 image: assets/images/classroom.jpg
-description: 'Courses and Philosophy'
+description: 'Some helpful links'
 nav-menu: true
 banner_color: style1
 ---
 
 <!-- One -->
-<section id="overview">
+<!-- <section id="overview">
 	<div class="inner">
 		<header class="major">
 			<h2>Overview</h2>
@@ -18,27 +18,27 @@ banner_color: style1
 		<li><a href="files/teaching.html" class="button icon fa-file">Teaching Statement</a></li>
 	</ul>
 	</div>
-</section>
+</section> -->
 
 <!-- Two -->
 <section id="topics" class="spotlights">
-	<section id="philosophy">
-		<a href="teaching/philosophy.html" class="image">
-			<img src="{% link assets/images/philosophy.jpg %}" alt="" data-position="bottom center" />
+	<section id="GSA">
+		<a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/graduate-student-experience" class="image">
+			<img src="{% link assets/images/philosophy.jpg %}" alt="philosophy written in blue highlighter" data-position="bottom center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Teaching Philosophy</h3>
+					<h3>GRADUATE STUDIES AND POSTDOCTORAL AFFAIRS</h3>
 				</header>
-				<p> My teaching philosophy focuses on promoting a <b>growth mindset</b> in an <b>active learning</b> environment that is <b>inclusive</b> for all.</p>
+				<p> Information from UWaterloo on their graduate studies</p>
 				<ul class="actions">
 					<li><a href="teaching/philosophy.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section id="courses">
+	<!-- <section id="courses">
     		<a href="teaching/courses.html" class="image">
 			<img src="{% link assets/images/lecture_hall.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -53,7 +53,7 @@ banner_color: style1
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 </section>
 
 <section>
