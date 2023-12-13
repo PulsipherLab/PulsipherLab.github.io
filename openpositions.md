@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Positions
-image: assets/images/conference.jpg
+image: assets/images/hiring.png
 description: Lorem Ipsem
 nav-menu: true
 banner_color: style1
