@@ -33,7 +33,7 @@ banner_color: style1
 				</header>
 				<p> Information from UWaterloo on their graduate studies</p>
 				<ul class="actions">
-					<li><a href="teaching/philosophy.html" class="button">Learn more</a></li>
+					<li><a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/graduate-student-experience" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
