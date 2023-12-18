@@ -6,6 +6,7 @@ description: 'Book Chapters, Patents, and More'
 nav-menu: false
 show_tile: false
 banner_color: style4
+author: Joshua Pulsipher
 ---
 
 # Dissertations

@@ -6,6 +6,7 @@ description: 'Ongoing and Completed Papers'
 nav-menu: false
 show_tile: false
 banner_color: style4
+author: Joshua Pulsipher
 ---
 
 <ol reversed>
