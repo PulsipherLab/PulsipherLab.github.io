@@ -13,7 +13,7 @@ banner_color: style1
 		<!-- <header class="major">
 			<h2>Overview</h2>
 		</header> -->
-		<p>I don't currently have any open positions, however, exceptional students are always encouraged to send me their CV as opportunities always open quickly. Students with scholarships are always welcome to apply. Please send your CV and transcripts to pulsipiher (at) uwaterloo.ca </p>
+		<p>I don't currently have any open positions, however, exceptional students are always encouraged to send me their CV as opportunities always open quickly. Students with scholarships are always welcome to apply. Please send your CV and transcripts to joshua.pulsipiher (at) uwaterloo.ca </p>
 	</div>
 </section>
 
