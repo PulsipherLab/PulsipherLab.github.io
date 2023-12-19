@@ -1,6 +1,6 @@
 ---
 layout: people #no touchy
-title: McKenna_Pulsipher #your name
+title: McKenna Pulsipher #your name
 image: assets/images/mckenna.jpg #link to your image
 description: #
 nav-menu: false #no touchy
@@ -12,10 +12,10 @@ research: #figure this out Kenna
 
 <section id="profile">
 	<div class="inner">
-        <header class="major">
+        <!-- <header class="major">
 			<h2>{{page.title}}</h2>
-		</header>
-		<p><span class="image left"><img src="" alt="" /></span>
+		</header> -->
+		<p><span class="image left"><img src="assets/images/mckenna.jpg" alt="mckenna pulsipher" /></span>
         McKenna is a Phd candidate joining us from the University of Fluffy Cats. During her undergraduate studies, McKenna was an undergraduate researcher under Professor David Snugglefluff in his research on the effect of static electricity on cat fur. She has a passion for sustainable fluffiness, and was a runner up for the fluff award. 
         </p>
         <!-- if you would like to link your CV upload it to the files folder update the link below to your CV and un-comment out the section -->
