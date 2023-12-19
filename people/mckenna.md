@@ -2,7 +2,7 @@
 layout: people #no touchy
 title: McKenna Pulsipher #your name
 image: #link to your image
-description: #
+description: McKenna is a Phd candidate joining us from the University of Fluffy Cats. During her undergraduate studies, McKenna was an undergraduate researcher under Professor David Snugglefluff in his research on the effect of static electricity on cat fur. She has a passion for sustainable fluffiness, and was a runner up for the fluff award. #
 nav-menu: false #no touchy
 show_tile: false #no touchy
 banner_color: style4

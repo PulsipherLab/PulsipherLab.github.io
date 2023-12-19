@@ -18,6 +18,12 @@ banner_color: style1
 		</ul>
 	</div>
 		<p><a href="people/mckenna.html">McKenna</a></p>
+	{% for page in site.people %}
+	<header class="major">
+	<h1>{{ post.title }}</h1>
+	</header>
+	{% if post.image %}<span class="image right"><img src="{{ site.baseurl }}/{{ people.image }}" alt="{{ people.title }}" /></span>{% endif %}
+	{{site.description}}
 </section>
 
 <section>
