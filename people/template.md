@@ -12,9 +12,6 @@ research: #figure this out Kenna
 
 <section id="profile">
 	<div class="inner">
-        <header class="major">
-			<h2>{{page.title}}</h2>
-		</header>
 		<p><span class="image left"><img src="" alt="" /></span>
         <!-- add a short description of your acedemic career -->
         </p>

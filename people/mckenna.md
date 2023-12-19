@@ -1,7 +1,7 @@
 ---
 layout: people #no touchy
 title: McKenna Pulsipher #your name
-image: assets/images/mckenna.jpg #link to your image
+image: #link to your image
 description: #
 nav-menu: false #no touchy
 show_tile: false #no touchy
