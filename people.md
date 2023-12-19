@@ -24,6 +24,7 @@ banner_color: style1
 	</header>
 	{% if post.image %}<span class="image right"><img src="{{ site.baseurl }}/{{ people.image }}" alt="{{ people.title }}" /></span>{% endif %}
 	{{site.description}}
+	{% end for %}
 </section>
 
 <section>
