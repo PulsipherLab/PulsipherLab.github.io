@@ -1,12 +1,12 @@
 ---
 layout: people #no touchy
-title: #your name
-image: #link to your image
+title: McKenna_Pulsipher #your name
+image: assets/images/mckenna.jpg #link to your image
 description: #
 nav-menu: false #no touchy
 show_tile: false #no touchy
 banner_color: style4
-student_type: # phd, masters, etc.
+student_type: Phd # phd, masters, etc.
 research: #figure this out Kenna
 ---
 
@@ -16,7 +16,7 @@ research: #figure this out Kenna
 			<h2>{{page.title}}</h2>
 		</header>
 		<p><span class="image left"><img src="" alt="" /></span>
-        <!-- add a short description of your acedemic career -->
+        McKenna is a Phd candidate joining us from the University of Fluffy Cats. During her undergraduate studies, McKenna was an undergraduate researcher under Professor David Snugglefluff in his research on the effect of static electricity on cat fur. She has a passion for sustainable fluffiness, and was a runner up for the fluff award. 
         </p>
         <!-- if you would like to link your CV upload it to the files folder update the link below to your CV and un-comment out the section -->
         <!-- <ul class="actions">
@@ -25,17 +25,11 @@ research: #figure this out Kenna
         <h2>Education</h2>
         <ul>
 			<li><b> {{page.student_type}} candidate in Chemical and Biological Engineering</b>, <i>University of Waterloo, Waterloo, ON, Canada</i> <br/>Advisor: Professor Joshua Pulsipher</li>
-			<li><b>B.Sc. in Chemical Engineering</b>, <i>*University name*</i> (*date of study**)<br/> Advisor: Professor *name here*</li>
+			<li><b>B.Sc. in Chemical Engineering</b>, <i>University of fluffy cats</i> (2020 - 2024)<br/> Advisor: Professor David Snugglefluff</li>
 		</ul>
         <h2>Research Interests</h2>
         <ul>
-            <li>Decision-making under uncertainty (stochastic optimization, <a href="research/rfo.html">random field optimization</a>, etc.)</li>
-			<li>Data-science (<a href="research/neuralops.html">neural operators</a>, convolutional neural networks, etc.)</li>
-			<li>Infinite-dimensional optimization (i.e., <a href="research/infiniteopt.html">InfiniteOpt</a>)</li>
-            <li>Advanced control</li>
-            <li><a href="research/compvis.html">Computer vision for process control</a></li>
-            <li><a href="research/wildfire.html">Wildfire mitigation</a></li>
-            <li><a href="research/energy.html">Energy systems</a></li>
+            <li>Sustainable fluff</li>
 		</ul>
         <!-- relevant research experience -->
         <!-- <h2>Research Experience</h2>
