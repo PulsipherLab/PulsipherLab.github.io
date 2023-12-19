@@ -17,7 +17,7 @@ banner_color: style1
 			<li><a href="files/cv.html" class="button icon fa-file">Full CV</a></li>
 		</ul>
 	</div>
-		<p><span class="image left"><img src="{% link assets/images/mckenna.png %}" alt="" /></span><a href="people/mckenna.html">McKenna</a></p>
+		<p><a href="people/mckenna.html">McKenna</a></p>
 </section>
 
 <section>
