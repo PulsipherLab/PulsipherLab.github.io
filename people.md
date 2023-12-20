@@ -17,13 +17,5 @@ banner_color: style1
 			<li><a href="files/cv.html" class="button icon fa-file">Full CV</a></li>
 		</ul>
 	</div>
-		<p><a href="people/mckenna.html">McKenna</a></p>
-</section>
-
-<section>
-	<div class="inner">
-		<ul class="actions">
-    		<li><a href="/#launch" class="button icon fa-arrow-left">Go back to launch page</a></li>
-		</ul>
-	</div>
+		<p><a href="people/mckenna2.html">McKenna</a></p>
 </section>
