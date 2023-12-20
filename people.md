@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: people
 title: People
 image: assets/images/conference.jpg
 description: An Introduction
