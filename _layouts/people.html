@@ -39,14 +39,12 @@
 			</div>
 		</section>
 		{% for page in site.people %}
-	  {% if post.title != 404 %}
-	  <header class="major">
-	    <h1>{{ people.title }}</h1>
-	  </header>
-	  {% if page.profile_image %}<span class="image right"><img src="{{ site.baseurl }}/{{ page.profile_image }}" alt="{{page.title}}" /></span>{% endif %}
-	  <p>{{ post.description }}</p>
-	  {% endif %}
-    	{% endfor %}
+		<header class="major">
+		<h1>{{ post.title }}</h1>
+		</header>
+		{% if post.image %}<span class="image right"><img src="{{ site.baseurl }}/{{ people.image }}" alt="{{ people.title }}" /></span>{% endif %}
+		{{site.description}}
+		{% endfor %}
 	</div>
 	
 	<section>
