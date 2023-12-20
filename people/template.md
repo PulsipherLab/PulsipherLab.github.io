@@ -1,6 +1,6 @@
 ---
 layout: person #no touchy
-title: #your name
+title: 404 #your name
 image: #banner image. Leave blank for solid color
 profile_image: # headshot
 description: # Enter a paragraph description of your studies

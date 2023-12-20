@@ -38,9 +38,25 @@
 				{{ content }}
 			</div>
 		</section>
-
+		{% for page in site.people %}
+	  {% if post.title != 404 %}
+	  <header class="major">
+	    <h1>{{ people.title }}</h1>
+	  </header>
+	  {% if page.profile_image %}<span class="image right"><img src="{{ site.baseurl }}/{{ page.profile_image }}" alt="{{page.title}}" /></span>{% endif %}
+	  <p>{{ post.description }}</p>
+	  {% endif %}
+    	{% endfor %}
 	</div>
 	
+	<section>
+		<div class="inner">
+			<ul class="actions">
+				<li><a href="/#launch" class="button icon fa-arrow-left">Go back to launch page</a></li>
+			</ul>
+		</div>
+	</section>
+
 	{% include footer.html %}
 
 </body>
