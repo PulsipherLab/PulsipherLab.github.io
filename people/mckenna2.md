@@ -8,12 +8,11 @@ nav-menu: false #no touchy
 show_tile: false #no touchy
 banner_color: style1 #change number to change color
 student_type: Phd # phd, masters, etc.
-research: #figure this out Kenna
+research: #
 ---
 
 <section id="profile">
 	<div class="inner">
-        <!-- if you would like to link your CV put the code snippet here -->
         <h2>Education</h2>
         <ul>
 			<li><b> {{page.student_type}} candidate in Chemical and Biological Engineering</b>, <i>University of Waterloo, Waterloo, ON, Canada</i> <br/>Advisor: Professor Joshua Pulsipher</li>

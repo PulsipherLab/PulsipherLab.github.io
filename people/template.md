@@ -3,12 +3,12 @@ layout: person #no touchy
 title: #your name
 image: #banner image. Leave blank for solid color
 profile_image: # headshot
-description: #
+description: # Enter a paragraph description of your studies
 nav-menu: false #no touchy
 show_tile: false #no touchy
 banner_color: style4 #change number to change color
 student_type: # phd, masters, etc.
-research: #figure this out Kenna
+research: # enter the research that you are assisting with
 ---
 
 <section id="profile">
