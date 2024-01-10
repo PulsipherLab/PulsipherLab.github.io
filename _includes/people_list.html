@@ -1,3 +1,5 @@
-{% for person in site.people %}
-<img src="{{ people.image }}" alt="{{ people.title }}" />
-{% endfor %}
+<ul>
+    {% for person in site.people %}
+      <li>{{ forloop.index }}. {{ person.name }}</li>
+    {% endfor %}
+  </ul>
