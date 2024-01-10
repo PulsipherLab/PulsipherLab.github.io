@@ -52,6 +52,7 @@
     			<li>{{ peep.title }}</li>
  				 {% endfor %}
 			</ul>
+			{{ site.students | jsonify }}
 			  <!-- {% for peeps in site.people %}
 		  {% if post.title != 404 %}
 		  <header class="major">
