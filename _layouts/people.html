@@ -30,7 +30,7 @@
 			</div>
 		</div>
 	</section>
-	{% assign post_tiles = site.layout %}
+
 	<div id="main" class="alt">
 
 		<section id="one">
@@ -43,7 +43,7 @@
 		<div class="inner">
 			<h1>People</h1>
 			<ul>
-				{% for page in post_tiles %}
+				{% for page in site.include %}
 				These shoes are awesome!
 			  	{% endfor %}
 			</ul>
