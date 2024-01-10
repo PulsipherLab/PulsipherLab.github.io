@@ -43,8 +43,8 @@
 		<div class="inner">
 			<h1>People</h1>
 			<ul>
-				{% for person in site.people %}
-				  <li>{{ person.title }}</li>
+				{% for per in site.layouts.person %}
+				  <li>{{ per.title }}</li>
 				{% endfor %}
 			</ul>
 			  <!-- {% for peeps in site.people %}
