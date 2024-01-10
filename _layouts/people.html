@@ -43,9 +43,9 @@
 		<div class="inner">
 			<h1>People</h1>
 			<ul>
-				{% for page in site.include %}
-				These shoes are awesome!
-							  	{% endfor %}
+				{% for post in site.posts %}
+				  <li>{{ post.title }}</li>
+				{% endfor %}
 			</ul>
 			  <!-- {% for peeps in site.people %}
 		  {% if post.title != 404 %}
