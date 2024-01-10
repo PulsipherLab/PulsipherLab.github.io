@@ -42,8 +42,11 @@
 	<section id="one">
 		<div class="inner">
 			<h1>People List</h1>
-
-			{% include people_list.html %}
+			<ul>
+				{% for person in site.people %}
+				  <li>{{ forloop.index }}. {{ person.title }}</li>
+				{% endfor %}
+			</ul>
 			  <!-- {% for peeps in site.people %}
 		  {% if post.title != 404 %}
 		  <header class="major">
