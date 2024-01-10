@@ -8,7 +8,6 @@ nav-menu: false #no touchy
 show_tile: false #no touchy
 banner_color: style1 #change number to change color
 student_type: Phd # phd, masters, etc.
-research: #
 ---
 
 <section id="profile">
