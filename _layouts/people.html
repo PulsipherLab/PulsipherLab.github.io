@@ -43,9 +43,9 @@
 		<div class="inner">
 			<h1>People</h1>
 			<ul>
-				{% for person in site.people %}
-				  <li>1</li>
-				{% endfor %}
+				{% if page.title == "People" %}
+				These shoes are awesome!
+			  	{% endif %}
 			</ul>
 			  <!-- {% for peeps in site.people %}
 		  {% if post.title != 404 %}
