@@ -17,5 +17,7 @@ banner_color: style1
 			<li><a href="files/cv.html" class="button icon fa-file">Full CV</a></li>
 		</ul>
 	</div>
-		<p><a href="people/mckenna2.html">McKenna</a></p>
+		
+		
+
 </section>
