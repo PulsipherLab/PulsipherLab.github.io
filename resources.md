@@ -3,7 +3,7 @@ layout: page
 title: Resources
 image: assets/images/classroom.jpg
 description: 'Some helpful links'
-nav-menu: true
+nav-menu: false
 banner_color: style1
 ---
 
