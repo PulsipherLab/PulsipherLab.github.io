@@ -1,3 +1,3 @@
-# pulsipher.github.io
+# PULSI-Opt.github.io
 
-The personal webpage of Joshua Pulsipher.
+The webpage of the PULSI-Opt Lab. The website is still under development.
